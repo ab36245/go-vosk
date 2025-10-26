@@ -3,7 +3,7 @@ package vosk
 import (
 	"slices"
 
-	"github.com/aivoicesystems/aivoice/common/stream"
+	"github.com/ab36245/go-stream"
 )
 
 func New(samplesPerSecond int) *Vosk {

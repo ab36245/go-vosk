@@ -1,6 +1,6 @@
 package vosk
 
-import "github.com/aivoicesystems/aivoice/common/writer"
+import "github.com/ab36245/go-writer"
 
 type VoskResult struct {
 	Alternatives []VoskAlternative `json:"alternatives"`

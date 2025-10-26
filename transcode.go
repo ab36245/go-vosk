@@ -3,7 +3,7 @@ package vosk
 import (
 	"strconv"
 
-	"github.com/aivoicesystems/aivoice/common/runner"
+	"github.com/ab36245/go-runner"
 )
 
 func transcode(
